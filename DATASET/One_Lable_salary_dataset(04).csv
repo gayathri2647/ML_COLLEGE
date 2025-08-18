@@ -1,0 +1,469 @@
+City,Education,Industry,YearsExperience,Certification,Salary
+San Francisco,High School,Healthcare,18,AWS,53753
+Austin,Masters,Retail,29,None,77380
+Chicago,PhD,Technology,5,None,65670
+Austin,Bachelors,Finance,1,Scrum Master,33650
+Austin,High School,Education,11,PMP,47668
+Los Angeles,Bachelors,Technology,18,Scrum Master,57220
+Chicago,High School,Technology,4,AWS,45654
+Chicago,Masters,Healthcare,11,Scrum Master,60667
+Chicago,High School,Retail,26,None,59031
+Austin,PhD,Education,26,None,90870
+San Francisco,PhD,Finance,16,Data Science,86138
+Chicago,High School,Education,28,Data Science,65951
+Austin,High School,Finance,16,AWS,68362
+Los Angeles,High School,Retail,9,PMP,45595
+San Francisco,High School,Finance,24,Scrum Master,68474
+Los Angeles,PhD,Healthcare,22,AWS,82721
+San Francisco,Bachelors,Healthcare,16,Data Science,56791
+Austin,High School,Healthcare,14,Scrum Master,51380
+New York,High School,Healthcare,11,Data Science,49193
+San Francisco,PhD,Education,29,Scrum Master,88896
+Los Angeles,PhD,Retail,15,PMP,73346
+Austin,Masters,Finance,23,AWS,73431
+San Francisco,High School,Finance,18,Scrum Master,62443
+New York,Masters,Healthcare,7,None,45980
+New York,PhD,Healthcare,30,None,91322
+Chicago,PhD,Technology,20,Scrum Master,94180
+Chicago,Bachelors,Retail,16,Scrum Master,59456
+Los Angeles,High School,Education,22,Scrum Master,66045
+San Francisco,Masters,Finance,4,None,46538
+San Francisco,PhD,Technology,21,None,87917
+Chicago,PhD,Technology,15,Scrum Master,86565
+San Francisco,Masters,Finance,5,Data Science,54208
+San Francisco,Bachelors,Education,7,Data Science,52096
+New York,PhD,Technology,24,PMP,95966
+Chicago,High School,Technology,17,AWS,64460
+Austin,PhD,Retail,24,Data Science,84454
+Chicago,High School,Education,11,None,47167
+Austin,Masters,Technology,14,Data Science,68237
+New York,High School,Education,26,PMP,72540
+Los Angeles,Masters,Finance,25,PMP,88283
+San Francisco,High School,Healthcare,8,AWS,38070
+New York,Masters,Technology,12,Data Science,59343
+San Francisco,High School,Retail,25,None,58318
+Los Angeles,Bachelors,Finance,14,None,59539
+Los Angeles,High School,Education,9,Scrum Master,37983
+New York,High School,Finance,15,None,47735
+Los Angeles,Bachelors,Technology,6,AWS,48942
+Austin,PhD,Education,16,AWS,86464
+Los Angeles,PhD,Healthcare,22,None,82969
+San Francisco,High School,Finance,25,None,77692
+San Francisco,Bachelors,Technology,20,Scrum Master,68409
+San Francisco,High School,Retail,21,None,61005
+San Francisco,Masters,Education,25,Scrum Master,82095
+Austin,Masters,Finance,6,Scrum Master,53548
+Chicago,High School,Finance,13,None,56836
+New York,PhD,Healthcare,14,PMP,72608
+San Francisco,PhD,Healthcare,20,PMP,76659
+Los Angeles,High School,Retail,6,Scrum Master,43960
+San Francisco,High School,Retail,8,None,41125
+Los Angeles,Masters,Technology,18,PMP,71221
+Los Angeles,PhD,Technology,15,None,83182
+San Francisco,High School,Retail,7,None,36007
+Austin,Masters,Retail,17,None,65640
+Los Angeles,PhD,Education,26,Data Science,88954
+Los Angeles,Bachelors,Healthcare,22,None,68429
+San Francisco,Masters,Technology,28,Data Science,92373
+Los Angeles,PhD,Healthcare,17,Scrum Master,75374
+Los Angeles,PhD,Healthcare,30,PMP,99088
+San Francisco,Masters,Retail,29,PMP,90451
+San Francisco,Bachelors,Education,19,PMP,61289
+New York,Masters,Finance,6,PMP,55051
+Austin,PhD,Education,2,PMP,46440
+Austin,High School,Education,17,PMP,50174
+Los Angeles,High School,Healthcare,26,PMP,67473
+Austin,Masters,Education,9,Scrum Master,50452
+Los Angeles,PhD,Technology,6,None,66065
+New York,High School,Healthcare,16,AWS,54283
+San Francisco,PhD,Technology,13,Data Science,80148
+San Francisco,Masters,Finance,30,AWS,90647
+San Francisco,High School,Healthcare,23,AWS,66932
+Austin,PhD,Finance,2,None,59322
+New York,High School,Healthcare,11,None,36622
+Austin,Masters,Retail,27,None,75803
+Austin,PhD,Education,12,PMP,67279
+New York,High School,Retail,1,Scrum Master,25451
+New York,Masters,Finance,2,PMP,51999
+New York,High School,Education,4,Scrum Master,43653
+New York,High School,Healthcare,10,Scrum Master,51093
+San Francisco,Bachelors,Education,7,AWS,39432
+Chicago,Bachelors,Technology,25,AWS,82953
+Chicago,Masters,Education,22,Scrum Master,73743
+New York,Bachelors,Technology,22,Scrum Master,69314
+Chicago,Masters,Education,11,PMP,53432
+Chicago,Bachelors,Technology,6,PMP,45487
+New York,High School,Finance,14,AWS,55059
+Chicago,Masters,Retail,23,None,75352
+Austin,Masters,Healthcare,16,Scrum Master,64802
+Los Angeles,High School,Education,3,PMP,34515
+Los Angeles,Masters,Retail,28,AWS,84184
+New York,Masters,Healthcare,21,PMP,77453
+San Francisco,Bachelors,Healthcare,24,Scrum Master,70747
+New York,Masters,Technology,12,Scrum Master,58575
+San Francisco,PhD,Finance,17,Data Science,68730
+Los Angeles,High School,Finance,0,None,40671
+New York,Bachelors,Retail,15,Data Science,45665
+Austin,Bachelors,Finance,12,AWS,52876
+Chicago,PhD,Education,9,PMP,57649
+San Francisco,High School,Finance,11,AWS,43490
+Chicago,High School,Retail,29,Scrum Master,76207
+Chicago,Bachelors,Finance,1,Data Science,41295
+New York,Masters,Education,22,Data Science,70117
+Chicago,Bachelors,Technology,2,Data Science,28044
+Austin,High School,Retail,9,AWS,40768
+Chicago,PhD,Technology,1,Scrum Master,61459
+New York,Bachelors,Technology,29,PMP,74105
+Austin,High School,Technology,26,PMP,77916
+Los Angeles,Bachelors,Healthcare,22,AWS,62923
+Chicago,Masters,Healthcare,12,Data Science,60896
+New York,Bachelors,Technology,12,None,56597
+Los Angeles,Bachelors,Retail,17,AWS,50634
+Los Angeles,High School,Education,2,AWS,38982
+San Francisco,High School,Education,26,Scrum Master,68207
+Austin,High School,Finance,6,PMP,44863
+Chicago,Bachelors,Retail,13,AWS,44833
+New York,Masters,Healthcare,19,AWS,66283
+San Francisco,PhD,Technology,28,Data Science,95575
+Austin,PhD,Finance,29,Data Science,98635
+San Francisco,High School,Education,16,None,62558
+Austin,High School,Healthcare,28,Scrum Master,65140
+Austin,Bachelors,Healthcare,29,None,65432
+Chicago,PhD,Technology,20,Data Science,95355
+Austin,High School,Education,11,PMP,45453
+San Francisco,Masters,Retail,24,Data Science,72654
+Austin,Masters,Healthcare,15,Scrum Master,67699
+Chicago,High School,Technology,23,Data Science,69471
+Chicago,High School,Retail,11,Scrum Master,55630
+San Francisco,PhD,Education,14,Scrum Master,74389
+Los Angeles,PhD,Healthcare,24,Scrum Master,83560
+Los Angeles,Bachelors,Retail,9,Scrum Master,54286
+Austin,PhD,Retail,29,Scrum Master,90471
+New York,Masters,Retail,24,PMP,79710
+Austin,Masters,Healthcare,30,None,86496
+San Francisco,High School,Healthcare,6,AWS,45508
+San Francisco,PhD,Finance,19,None,92307
+San Francisco,Bachelors,Education,4,Scrum Master,36160
+San Francisco,Masters,Technology,0,PMP,44232
+San Francisco,Masters,Retail,29,Data Science,85799
+Chicago,Bachelors,Finance,16,PMP,56611
+Los Angeles,Bachelors,Technology,2,Scrum Master,51066
+San Francisco,Masters,Finance,12,PMP,64682
+New York,Masters,Healthcare,13,PMP,57673
+New York,Bachelors,Retail,23,Scrum Master,65423
+New York,Masters,Technology,29,PMP,84764
+New York,High School,Technology,17,AWS,58641
+Chicago,High School,Technology,3,AWS,48502
+New York,Bachelors,Technology,17,PMP,60215
+San Francisco,PhD,Technology,29,Data Science,96265
+Austin,Bachelors,Finance,4,Scrum Master,44683
+New York,Bachelors,Retail,24,AWS,71928
+Chicago,PhD,Healthcare,15,Data Science,76094
+Chicago,PhD,Healthcare,0,PMP,54980
+New York,PhD,Healthcare,20,Data Science,76216
+Austin,High School,Healthcare,13,None,42390
+New York,Masters,Finance,14,AWS,74506
+Chicago,High School,Education,8,PMP,40386
+Los Angeles,Masters,Retail,14,Scrum Master,59745
+San Francisco,High School,Technology,16,PMP,68640
+Chicago,Masters,Education,24,Scrum Master,78781
+New York,High School,Healthcare,23,PMP,66779
+San Francisco,PhD,Education,3,Data Science,65325
+New York,Bachelors,Retail,11,Data Science,43282
+New York,High School,Technology,26,Data Science,81639
+Los Angeles,Masters,Technology,25,None,85785
+San Francisco,PhD,Retail,4,Scrum Master,57342
+San Francisco,High School,Retail,28,Data Science,79642
+Los Angeles,High School,Healthcare,4,None,38539
+Chicago,PhD,Technology,10,Scrum Master,75691
+New York,High School,Education,27,PMP,75862
+Austin,Bachelors,Finance,5,None,41675
+New York,High School,Finance,6,AWS,40803
+New York,Bachelors,Retail,23,None,59275
+Chicago,Bachelors,Healthcare,30,None,65168
+New York,PhD,Finance,13,Scrum Master,85781
+Los Angeles,High School,Technology,23,PMP,66983
+Los Angeles,PhD,Retail,10,AWS,63893
+San Francisco,High School,Education,29,Data Science,72115
+Austin,High School,Retail,12,Data Science,49537
+New York,Masters,Education,1,None,45578
+New York,High School,Retail,24,Scrum Master,70302
+Chicago,PhD,Retail,6,Scrum Master,56084
+Los Angeles,Bachelors,Retail,19,Data Science,57664
+Austin,High School,Education,3,AWS,35912
+San Francisco,Masters,Education,26,PMP,77756
+Los Angeles,PhD,Retail,7,AWS,68536
+San Francisco,High School,Finance,19,PMP,66954
+Chicago,PhD,Healthcare,28,Data Science,95674
+Chicago,Masters,Healthcare,30,PMP,88314
+New York,Masters,Healthcare,21,Scrum Master,77367
+Austin,PhD,Education,20,None,80905
+San Francisco,High School,Education,18,None,50515
+Los Angeles,Bachelors,Finance,12,Data Science,55998
+Chicago,Masters,Healthcare,13,Scrum Master,56243
+New York,High School,Healthcare,9,AWS,40856
+New York,High School,Retail,10,Scrum Master,47931
+San Francisco,Bachelors,Education,1,None,37691
+Chicago,Masters,Healthcare,24,None,76106
+Austin,Masters,Finance,25,Scrum Master,85044
+Chicago,High School,Finance,8,Scrum Master,56511
+San Francisco,High School,Healthcare,16,None,55203
+San Francisco,Bachelors,Education,25,AWS,80508
+Chicago,Bachelors,Finance,2,Data Science,41827
+San Francisco,Masters,Retail,23,Data Science,65696
+Chicago,PhD,Finance,5,Scrum Master,67266
+Los Angeles,Masters,Technology,4,Data Science,55905
+Chicago,High School,Technology,4,None,50448
+Chicago,Masters,Education,21,None,74865
+San Francisco,PhD,Healthcare,14,Scrum Master,70307
+San Francisco,Bachelors,Education,22,Scrum Master,56878
+New York,PhD,Education,16,Scrum Master,72954
+New York,PhD,Education,8,AWS,57747
+Los Angeles,PhD,Education,2,Data Science,50097
+New York,Bachelors,Retail,19,Scrum Master,61442
+Chicago,PhD,Retail,25,PMP,95849
+San Francisco,PhD,Finance,16,PMP,81973
+New York,PhD,Technology,28,None,94020
+New York,High School,Education,26,Data Science,71223
+Los Angeles,PhD,Finance,9,Scrum Master,75483
+Los Angeles,Bachelors,Technology,2,PMP,37951
+Chicago,PhD,Healthcare,17,Data Science,74829
+San Francisco,PhD,Retail,17,None,75573
+Los Angeles,Bachelors,Technology,29,AWS,77575
+New York,PhD,Healthcare,16,Data Science,77241
+San Francisco,Bachelors,Technology,23,Data Science,71895
+San Francisco,PhD,Retail,2,AWS,55097
+New York,Bachelors,Retail,2,Data Science,28562
+Los Angeles,PhD,Finance,5,None,61312
+New York,PhD,Education,12,None,71611
+San Francisco,High School,Technology,23,AWS,70635
+Austin,High School,Technology,28,Scrum Master,88634
+Austin,PhD,Healthcare,14,PMP,69001
+Chicago,PhD,Retail,24,Scrum Master,87123
+New York,Masters,Technology,8,Data Science,64662
+New York,Bachelors,Retail,3,PMP,27408
+Chicago,Masters,Technology,13,AWS,58695
+Chicago,High School,Finance,4,AWS,34371
+Chicago,High School,Education,1,PMP,37812
+San Francisco,High School,Technology,10,None,50240
+New York,High School,Retail,8,PMP,54790
+San Francisco,PhD,Finance,23,Data Science,87678
+Chicago,High School,Technology,2,None,41922
+New York,PhD,Healthcare,26,AWS,96710
+San Francisco,PhD,Education,27,PMP,100530
+San Francisco,High School,Technology,28,Scrum Master,90307
+Chicago,High School,Finance,8,Scrum Master,54041
+New York,Bachelors,Healthcare,2,Data Science,38120
+Chicago,Masters,Finance,24,Scrum Master,84962
+New York,High School,Finance,1,PMP,41391
+Austin,Bachelors,Healthcare,11,PMP,43744
+Los Angeles,Bachelors,Finance,9,Scrum Master,45409
+Los Angeles,Masters,Healthcare,8,PMP,51983
+Los Angeles,PhD,Technology,14,Data Science,78149
+Chicago,High School,Healthcare,7,None,38233
+Austin,Masters,Healthcare,24,Data Science,79481
+New York,High School,Education,4,Data Science,40776
+San Francisco,Bachelors,Healthcare,10,PMP,45442
+New York,Bachelors,Healthcare,26,None,76387
+San Francisco,PhD,Technology,1,PMP,53791
+New York,Bachelors,Education,23,AWS,63531
+Austin,Bachelors,Retail,27,PMP,66915
+San Francisco,Masters,Technology,14,PMP,59667
+Chicago,High School,Technology,5,PMP,45086
+New York,High School,Retail,7,None,39891
+New York,Masters,Healthcare,26,PMP,86567
+San Francisco,PhD,Finance,4,None,65154
+Chicago,High School,Education,15,Scrum Master,47379
+Chicago,Bachelors,Finance,25,AWS,82770
+Austin,High School,Retail,17,None,61605
+Chicago,Bachelors,Technology,5,Scrum Master,48410
+Chicago,PhD,Technology,4,None,62867
+Chicago,Masters,Education,27,None,75702
+Los Angeles,High School,Technology,15,AWS,58638
+Austin,Masters,Technology,12,Data Science,71443
+New York,High School,Education,27,Data Science,79922
+San Francisco,Bachelors,Education,4,None,43716
+New York,Masters,Retail,12,PMP,55555
+Austin,High School,Technology,16,Scrum Master,56401
+San Francisco,Bachelors,Technology,17,PMP,64204
+Austin,Masters,Retail,7,PMP,41657
+Chicago,Masters,Healthcare,12,None,59615
+San Francisco,High School,Healthcare,29,None,72761
+Chicago,High School,Healthcare,28,None,69669
+New York,High School,Retail,18,None,49026
+New York,Bachelors,Technology,25,Data Science,78068
+San Francisco,High School,Retail,2,None,30336
+San Francisco,Masters,Retail,23,Data Science,68650
+Austin,Masters,Healthcare,7,Data Science,36138
+Austin,High School,Finance,1,None,37362
+Chicago,High School,Technology,7,AWS,57361
+San Francisco,PhD,Healthcare,26,Scrum Master,97306
+New York,Masters,Finance,12,PMP,61714
+Austin,Bachelors,Finance,12,Data Science,50988
+Austin,PhD,Education,0,Scrum Master,52343
+New York,High School,Technology,5,AWS,40508
+Austin,High School,Finance,23,PMP,72008
+Chicago,Masters,Healthcare,18,PMP,70830
+San Francisco,High School,Education,15,Data Science,58634
+New York,Bachelors,Technology,7,None,47999
+San Francisco,Masters,Retail,27,AWS,79481
+Austin,High School,Healthcare,0,Data Science,25610
+Austin,Masters,Finance,26,AWS,80865
+New York,High School,Finance,26,None,73867
+Chicago,High School,Healthcare,15,None,54336
+Los Angeles,High School,Finance,8,Data Science,52567
+New York,Bachelors,Education,12,None,43984
+Los Angeles,Bachelors,Technology,10,Scrum Master,60463
+Los Angeles,Masters,Education,12,PMP,56644
+Chicago,High School,Finance,24,Data Science,71893
+Los Angeles,High School,Retail,20,AWS,56263
+Los Angeles,Bachelors,Technology,9,Scrum Master,39378
+Chicago,High School,Technology,3,Data Science,46920
+Los Angeles,Bachelors,Healthcare,30,None,78684
+Los Angeles,High School,Healthcare,26,None,67593
+Los Angeles,Masters,Retail,5,None,47834
+New York,High School,Technology,27,None,81079
+New York,High School,Retail,6,AWS,31187
+New York,PhD,Healthcare,4,Scrum Master,53354
+Chicago,Bachelors,Healthcare,10,PMP,48971
+Austin,High School,Technology,12,AWS,49728
+Los Angeles,High School,Education,25,AWS,68967
+Los Angeles,PhD,Finance,24,PMP,85217
+Chicago,PhD,Healthcare,18,PMP,79332
+Los Angeles,Bachelors,Healthcare,30,None,74821
+New York,PhD,Education,22,AWS,74924
+Austin,Masters,Education,9,Data Science,59323
+San Francisco,PhD,Retail,9,PMP,59827
+Los Angeles,Masters,Retail,10,PMP,50948
+New York,Bachelors,Finance,20,Scrum Master,67002
+San Francisco,Bachelors,Finance,29,Data Science,85243
+Austin,Bachelors,Technology,6,Data Science,41920
+San Francisco,Bachelors,Retail,30,PMP,75308
+New York,Bachelors,Healthcare,17,None,57644
+San Francisco,Masters,Retail,3,Scrum Master,47965
+Chicago,Masters,Healthcare,1,Data Science,42382
+San Francisco,Bachelors,Education,13,PMP,47664
+Los Angeles,PhD,Retail,12,Data Science,63862
+Los Angeles,High School,Education,28,Scrum Master,72430
+Chicago,Bachelors,Finance,11,Scrum Master,47139
+New York,PhD,Finance,6,AWS,50393
+Los Angeles,High School,Technology,1,PMP,41682
+Austin,Bachelors,Retail,12,Scrum Master,52519
+Los Angeles,Bachelors,Education,13,AWS,37685
+Los Angeles,Masters,Healthcare,26,AWS,73951
+New York,High School,Finance,16,Data Science,63095
+San Francisco,High School,Finance,8,Data Science,58287
+Los Angeles,PhD,Healthcare,16,AWS,74103
+Chicago,Masters,Education,7,Data Science,46859
+San Francisco,Masters,Education,30,Scrum Master,84085
+Austin,Masters,Retail,1,None,48374
+New York,Masters,Retail,27,Scrum Master,77270
+Austin,High School,Technology,23,AWS,68504
+San Francisco,High School,Finance,12,AWS,51586
+San Francisco,Bachelors,Retail,2,Scrum Master,28233
+San Francisco,Bachelors,Education,15,Data Science,53113
+Austin,Masters,Healthcare,5,Data Science,55623
+San Francisco,Masters,Education,18,AWS,68615
+Austin,Masters,Finance,29,PMP,88238
+San Francisco,Bachelors,Education,6,Data Science,37540
+Chicago,PhD,Technology,9,Scrum Master,63684
+San Francisco,PhD,Finance,8,Data Science,72415
+Austin,Bachelors,Healthcare,1,Scrum Master,31110
+Los Angeles,Bachelors,Technology,30,AWS,82097
+San Francisco,Bachelors,Finance,27,Data Science,92465
+Los Angeles,Bachelors,Healthcare,27,Scrum Master,71993
+Chicago,Bachelors,Technology,14,AWS,55241
+New York,Bachelors,Technology,29,PMP,79368
+Chicago,Masters,Finance,4,Scrum Master,57742
+San Francisco,Masters,Retail,28,PMP,82566
+Los Angeles,Masters,Technology,21,PMP,72308
+Los Angeles,Masters,Technology,3,None,57096
+Austin,Bachelors,Healthcare,19,Data Science,55159
+Los Angeles,PhD,Education,3,Scrum Master,63866
+Austin,High School,Finance,17,PMP,66900
+New York,Bachelors,Finance,3,None,38263
+San Francisco,High School,Retail,26,AWS,75405
+Austin,PhD,Retail,16,Scrum Master,74339
+New York,Masters,Finance,11,PMP,66763
+Los Angeles,PhD,Retail,21,Data Science,83923
+Los Angeles,Bachelors,Healthcare,16,None,49768
+New York,Masters,Finance,9,PMP,56282
+Los Angeles,Bachelors,Retail,21,Data Science,66649
+New York,Masters,Finance,0,PMP,44326
+Austin,High School,Education,21,Scrum Master,59481
+Austin,High School,Technology,25,Scrum Master,70724
+New York,High School,Finance,23,Scrum Master,72617
+Austin,PhD,Technology,26,None,107312
+Austin,Bachelors,Retail,17,Scrum Master,50162
+Austin,PhD,Technology,17,Data Science,83621
+Chicago,High School,Finance,13,PMP,62561
+San Francisco,Bachelors,Education,14,AWS,50601
+Los Angeles,High School,Retail,28,Data Science,74261
+Chicago,PhD,Finance,11,Data Science,67188
+Austin,PhD,Retail,3,Scrum Master,56641
+New York,PhD,Healthcare,26,None,88064
+Austin,High School,Technology,2,PMP,45928
+San Francisco,Bachelors,Healthcare,19,None,64436
+Austin,Bachelors,Finance,28,PMP,90947
+New York,High School,Education,11,PMP,49398
+San Francisco,Bachelors,Retail,6,None,40628
+Austin,High School,Technology,28,Data Science,80971
+San Francisco,Bachelors,Retail,10,PMP,43234
+Los Angeles,Masters,Finance,0,None,47692
+Los Angeles,Masters,Retail,5,PMP,46022
+Austin,PhD,Technology,14,AWS,79842
+San Francisco,Masters,Finance,14,Data Science,73587
+New York,Masters,Retail,18,Scrum Master,61967
+Austin,Masters,Education,10,PMP,60699
+Los Angeles,High School,Finance,25,AWS,80085
+Los Angeles,Masters,Finance,22,Scrum Master,78409
+Austin,Masters,Education,25,Scrum Master,66890
+San Francisco,PhD,Healthcare,1,PMP,48460
+Los Angeles,Masters,Technology,13,None,73984
+San Francisco,Masters,Healthcare,1,PMP,41385
+Los Angeles,Bachelors,Retail,28,AWS,67003
+Los Angeles,PhD,Education,3,Scrum Master,51976
+Chicago,PhD,Healthcare,16,PMP,78203
+Los Angeles,PhD,Finance,2,None,61733
+New York,PhD,Retail,12,PMP,66805
+Austin,PhD,Retail,8,Data Science,60165
+Austin,PhD,Healthcare,6,None,57041
+San Francisco,High School,Healthcare,14,AWS,46387
+Los Angeles,Masters,Education,22,Scrum Master,81076
+New York,PhD,Technology,28,PMP,98388
+San Francisco,Masters,Healthcare,28,None,88085
+Chicago,Masters,Healthcare,10,Data Science,62606
+San Francisco,High School,Finance,19,None,69491
+San Francisco,PhD,Retail,1,Data Science,49341
+Los Angeles,Bachelors,Technology,14,AWS,61018
+Chicago,High School,Finance,13,Scrum Master,55379
+San Francisco,Bachelors,Education,19,AWS,53981
+New York,Masters,Education,21,PMP,73121
+New York,Masters,Healthcare,10,None,49104
+Austin,High School,Healthcare,26,Data Science,74938
+Chicago,High School,Education,2,Data Science,30676
+Chicago,Bachelors,Healthcare,16,None,55005
+Austin,PhD,Technology,29,None,102916
+San Francisco,Bachelors,Healthcare,11,PMP,45205
+Chicago,High School,Retail,23,AWS,67433
+New York,Bachelors,Healthcare,27,Data Science,68125
+New York,High School,Finance,28,PMP,82356
+Los Angeles,Bachelors,Technology,20,AWS,61270
+Chicago,High School,Finance,14,PMP,57631
+San Francisco,High School,Finance,15,Data Science,68194
+Austin,High School,Retail,4,None,30998
+Austin,PhD,Technology,26,None,93611
+San Francisco,Bachelors,Technology,19,AWS,69069
+Los Angeles,Bachelors,Technology,5,Scrum Master,46397
+Austin,Bachelors,Technology,18,AWS,66753
+Chicago,High School,Technology,24,Scrum Master,76445
+Los Angeles,Bachelors,Retail,4,PMP,39173
+Chicago,Bachelors,Healthcare,2,PMP,38548
+New York,High School,Finance,26,Data Science,77049
+Los Angeles,Masters,Technology,0,Scrum Master,46793
+Austin,High School,Healthcare,25,Data Science,70862
+Los Angeles,Bachelors,Healthcare,27,None,79999
+Los Angeles,High School,Finance,5,Scrum Master,42836
+Los Angeles,Masters,Retail,14,AWS,56127
+Los Angeles,High School,Education,1,None,37035
+Chicago,Bachelors,Education,28,None,71398
