@@ -1,0 +1,501 @@
+Age,Systolic_BP,Diastolic_BP,Cholesterol,Heart_Rate,BMI,Glucose_Level,White_Blood_Cell_Count,Gender,Diagnosis
+80,174,111,286,70,24.6,77,5.46,Male,Healthy
+34,131,85,175,59,36.1,175,4.29,Female,Diabetes
+50,130,81,158,54,29.9,77,7.35,Male,Diabetes
+46,127,98,164,85,37.4,165,5.27,Male,Heart Disease
+30,123,61,159,55,30.9,163,9.2,Male,Healthy
+63,106,97,271,75,19.1,134,9.94,Female,Diabetes
+52,126,98,270,53,33.0,108,7.82,Male,Heart Disease
+23,114,85,274,88,19.5,150,10.87,Male,Healthy
+86,165,105,221,88,28.2,153,7.15,Male,Heart Disease
+64,176,117,198,99,38.5,157,7.59,Female,Hypertension
+42,175,109,240,84,22.1,155,10.92,Male,Diabetes
+83,174,74,186,50,26.9,162,5.62,Male,Hypertension
+27,116,93,217,73,34.2,155,10.6,Male,Healthy
+73,146,101,199,85,37.5,113,4.3,Male,Hypertension
+47,120,114,168,55,32.9,143,7.12,Female,Hypertension
+22,95,103,249,90,24.1,105,4.49,Male,Healthy
+50,129,108,209,95,33.0,170,9.1,Female,Heart Disease
+82,101,99,238,93,24.9,173,8.26,Female,Hypertension
+35,142,70,295,80,33.9,135,8.95,Female,Heart Disease
+66,160,62,296,69,39.0,124,6.62,Male,Hypertension
+28,99,118,218,73,34.0,160,6.59,Female,Heart Disease
+43,134,65,198,74,37.1,91,4.32,Male,Healthy
+80,106,68,257,85,18.5,170,6.45,Female,Hypertension
+76,115,65,268,70,33.9,190,10.51,Female,Healthy
+44,174,68,298,79,36.3,162,6.65,Female,Hypertension
+66,151,98,299,73,19.4,177,9.82,Female,Healthy
+50,135,90,186,93,37.2,79,9.9,Female,Healthy
+18,153,91,292,91,24.0,78,6.61,Female,Hypertension
+38,91,100,160,79,32.8,103,8.42,Female,Hypertension
+72,143,109,287,71,35.7,198,4.67,Female,Hypertension
+23,154,71,227,77,32.7,158,4.73,Male,Diabetes
+86,140,67,226,56,20.5,162,4.34,Male,Heart Disease
+22,142,67,151,84,31.3,140,8.07,Female,Diabetes
+20,125,109,213,77,30.3,136,6.98,Female,Diabetes
+70,115,87,184,63,37.9,186,7.84,Female,Healthy
+40,118,79,156,59,27.2,163,7.65,Male,Hypertension
+70,110,106,234,65,25.4,168,6.45,Female,Heart Disease
+54,100,118,295,65,34.6,182,8.74,Male,Healthy
+34,129,66,216,80,27.4,172,9.31,Male,Diabetes
+18,100,70,191,91,32.4,160,4.1,Male,Hypertension
+68,125,79,267,74,32.4,159,5.45,Male,Healthy
+62,148,75,274,62,37.6,86,8.99,Male,Hypertension
+21,128,63,173,55,31.4,87,6.71,Female,Healthy
+79,143,65,195,93,29.3,185,8.64,Female,Hypertension
+82,144,117,168,58,21.5,162,6.43,Female,Diabetes
+49,113,81,217,94,21.0,160,6.74,Female,Heart Disease
+51,111,85,251,85,21.8,151,5.11,Female,Diabetes
+89,158,62,191,92,22.2,137,5.81,Male,Heart Disease
+56,145,100,181,69,32.2,183,8.24,Female,Hypertension
+43,122,119,258,67,34.4,70,7.03,Female,Healthy
+51,125,101,185,92,29.9,127,9.42,Male,Diabetes
+71,109,73,246,70,36.3,178,9.97,Female,Heart Disease
+20,172,70,280,53,39.8,185,7.79,Male,Diabetes
+67,170,77,222,99,36.1,156,9.31,Female,Heart Disease
+29,151,113,285,82,33.4,79,6.15,Male,Diabetes
+82,162,71,246,76,29.9,128,6.9,Female,Heart Disease
+71,115,82,272,56,28.2,110,8.99,Female,Heart Disease
+22,155,71,219,55,20.3,174,6.7,Male,Hypertension
+74,162,72,162,64,27.1,191,8.12,Male,Heart Disease
+34,162,84,198,67,38.1,91,5.3,Male,Hypertension
+64,129,104,209,81,35.9,167,8.2,Male,Heart Disease
+40,106,110,279,60,23.1,137,10.03,Male,Healthy
+31,90,117,154,69,28.5,125,10.08,Male,Healthy
+83,178,78,176,73,36.1,168,9.07,Male,Healthy
+68,150,114,298,64,19.9,145,9.22,Male,Heart Disease
+55,132,105,157,97,26.8,95,7.91,Female,Hypertension
+81,131,95,199,56,36.8,184,8.09,Female,Hypertension
+55,114,104,216,70,27.2,178,4.94,Male,Heart Disease
+67,128,67,193,91,20.2,116,7.11,Female,Healthy
+47,124,88,274,75,30.2,140,7.16,Female,Healthy
+68,92,114,207,93,37.0,109,10.71,Female,Hypertension
+80,133,112,152,63,31.2,92,7.02,Female,Healthy
+69,140,114,235,86,23.4,175,7.85,Male,Diabetes
+55,101,91,219,70,26.8,153,7.73,Female,Hypertension
+47,108,110,279,67,28.2,185,8.46,Male,Healthy
+68,133,103,151,54,31.0,178,9.24,Female,Hypertension
+22,148,77,251,52,34.8,110,5.58,Female,Diabetes
+46,138,65,184,72,20.6,181,7.7,Female,Hypertension
+21,150,77,247,75,37.6,181,9.78,Male,Hypertension
+27,106,78,179,86,18.8,172,7.24,Female,Hypertension
+73,163,81,265,73,26.5,115,5.95,Male,Hypertension
+34,146,96,157,98,19.1,137,8.58,Female,Diabetes
+34,144,91,299,68,26.9,191,9.77,Male,Heart Disease
+86,136,115,193,74,29.8,84,4.44,Female,Hypertension
+51,101,100,185,70,29.5,198,9.44,Male,Hypertension
+23,151,118,226,61,22.1,180,9.75,Male,Healthy
+70,169,62,180,90,32.4,93,7.23,Female,Hypertension
+83,177,87,196,82,19.5,96,10.88,Male,Healthy
+60,172,69,204,99,34.9,109,9.51,Female,Heart Disease
+40,97,110,255,53,38.9,93,9.42,Female,Diabetes
+72,110,94,270,91,25.8,93,9.23,Female,Diabetes
+33,170,88,204,56,29.6,73,5.05,Female,Heart Disease
+25,176,113,293,71,26.6,136,5.52,Female,Diabetes
+21,169,74,161,82,18.6,103,7.25,Female,Heart Disease
+21,159,92,294,66,26.8,185,5.85,Female,Heart Disease
+73,161,66,293,73,35.5,92,6.91,Female,Heart Disease
+42,114,71,289,83,31.3,178,10.22,Female,Diabetes
+84,171,108,285,77,20.7,138,9.77,Female,Healthy
+84,178,89,152,92,36.7,164,8.41,Female,Heart Disease
+44,101,80,293,90,29.9,131,10.01,Male,Hypertension
+49,104,90,179,88,36.6,126,9.49,Male,Diabetes
+67,148,117,172,71,31.0,123,7.0,Female,Heart Disease
+78,115,83,241,98,30.5,139,5.41,Female,Heart Disease
+68,115,79,264,66,20.8,170,7.6,Female,Hypertension
+36,136,96,253,83,22.1,126,9.15,Female,Healthy
+38,121,63,267,55,39.4,172,7.05,Female,Healthy
+22,99,87,154,95,23.4,154,8.67,Female,Healthy
+59,105,103,253,55,39.5,130,4.66,Female,Heart Disease
+78,160,79,257,83,29.9,72,9.24,Female,Heart Disease
+39,106,119,214,50,21.4,197,9.69,Male,Heart Disease
+38,112,83,270,59,20.6,155,8.95,Female,Diabetes
+87,115,109,179,70,23.0,116,10.77,Male,Hypertension
+18,174,108,298,54,38.4,145,9.79,Female,Heart Disease
+22,175,110,233,51,27.4,107,10.32,Female,Hypertension
+29,96,91,299,71,27.0,156,10.53,Male,Hypertension
+63,103,100,181,97,25.2,127,9.61,Female,Healthy
+51,168,95,165,51,21.7,119,8.72,Male,Diabetes
+66,96,117,187,59,29.0,99,4.04,Female,Heart Disease
+62,98,112,291,83,21.3,170,7.26,Female,Healthy
+44,137,93,185,65,36.5,94,8.0,Male,Healthy
+43,161,95,263,97,26.5,181,6.13,Female,Heart Disease
+64,148,61,215,88,26.6,195,6.23,Male,Hypertension
+73,176,74,254,71,28.7,192,10.73,Female,Healthy
+80,171,93,234,61,28.0,116,10.24,Male,Hypertension
+65,128,95,151,73,39.9,187,9.94,Male,Diabetes
+78,107,65,224,96,30.2,108,6.84,Female,Hypertension
+43,148,98,216,89,20.4,85,4.1,Female,Diabetes
+53,106,101,204,87,31.5,91,4.56,Male,Hypertension
+18,103,110,155,59,21.8,123,6.19,Female,Healthy
+25,120,110,299,84,19.2,85,4.11,Female,Healthy
+69,113,117,292,98,39.4,128,4.12,Female,Diabetes
+64,149,113,235,81,35.1,100,10.42,Male,Heart Disease
+73,134,71,209,56,39.6,101,8.94,Male,Diabetes
+31,92,62,250,70,28.8,78,6.16,Male,Diabetes
+45,126,104,161,69,29.9,79,4.93,Male,Hypertension
+19,132,77,198,75,22.1,86,7.58,Male,Hypertension
+43,129,99,191,53,23.8,137,4.04,Male,Diabetes
+31,179,80,231,95,36.5,117,10.57,Male,Healthy
+76,144,74,184,71,26.2,180,6.9,Male,Hypertension
+73,176,92,283,64,36.3,192,6.82,Male,Heart Disease
+24,128,94,216,89,33.7,170,6.73,Female,Hypertension
+20,104,85,229,70,22.3,171,4.49,Male,Hypertension
+40,93,67,156,64,29.4,134,8.47,Female,Heart Disease
+35,175,95,163,71,33.1,120,9.13,Female,Diabetes
+55,114,107,222,77,23.6,105,8.73,Female,Heart Disease
+32,102,89,292,63,36.4,150,4.97,Male,Diabetes
+81,171,82,298,76,30.2,196,8.05,Male,Diabetes
+45,122,101,215,90,22.1,157,7.99,Male,Diabetes
+56,105,103,240,89,31.0,173,10.08,Male,Heart Disease
+74,131,73,279,77,40.0,84,6.65,Female,Diabetes
+34,155,73,169,75,21.7,165,6.6,Male,Healthy
+61,144,61,159,98,36.1,192,8.33,Male,Heart Disease
+42,131,114,174,51,23.0,70,8.43,Male,Healthy
+34,123,96,174,74,35.3,191,7.28,Male,Diabetes
+30,119,64,203,52,34.3,195,7.1,Male,Hypertension
+42,102,97,182,57,25.0,126,7.46,Female,Diabetes
+85,102,104,244,93,25.5,150,10.03,Male,Healthy
+27,107,100,163,82,35.5,142,7.23,Female,Healthy
+84,121,113,214,91,28.4,139,10.58,Male,Heart Disease
+35,128,119,259,84,34.2,75,7.53,Female,Hypertension
+51,135,106,229,55,21.7,153,10.64,Male,Heart Disease
+25,118,73,203,88,36.8,121,9.83,Male,Healthy
+57,151,115,274,72,33.8,72,6.54,Female,Diabetes
+59,151,98,280,74,38.0,150,10.05,Female,Hypertension
+58,146,84,283,99,21.3,132,4.77,Female,Diabetes
+23,105,79,174,92,31.2,118,10.48,Male,Diabetes
+69,145,61,290,68,31.4,145,8.42,Female,Hypertension
+43,99,98,266,54,26.1,181,4.38,Male,Heart Disease
+81,119,65,285,60,28.4,178,8.51,Male,Diabetes
+76,114,76,298,61,19.3,134,10.82,Female,Healthy
+73,173,118,174,59,34.5,150,4.49,Female,Diabetes
+76,94,84,228,57,30.3,84,7.88,Male,Hypertension
+87,154,116,217,73,19.7,169,9.23,Male,Hypertension
+50,138,87,161,77,33.1,101,9.67,Female,Hypertension
+70,92,61,181,90,28.5,165,6.9,Female,Heart Disease
+39,134,94,277,85,19.2,197,5.43,Female,Diabetes
+38,103,96,245,86,39.3,182,4.3,Male,Heart Disease
+87,119,64,241,70,38.9,152,8.06,Male,Heart Disease
+87,157,60,290,57,29.5,112,7.17,Male,Hypertension
+21,107,99,180,58,20.5,185,10.64,Male,Hypertension
+79,151,71,227,96,34.7,147,4.42,Male,Heart Disease
+79,126,115,169,64,29.1,127,8.8,Male,Diabetes
+41,114,95,295,97,25.0,102,4.17,Female,Healthy
+72,137,104,209,95,29.1,83,5.2,Male,Heart Disease
+26,154,82,283,89,29.7,128,7.18,Male,Diabetes
+20,142,106,242,67,30.6,152,7.18,Male,Hypertension
+48,168,90,192,91,28.0,190,8.8,Female,Hypertension
+57,162,70,279,69,31.5,152,10.37,Male,Diabetes
+53,104,69,209,55,38.3,96,8.47,Male,Healthy
+41,138,62,180,61,26.3,149,10.67,Female,Hypertension
+23,177,113,154,51,34.1,82,10.17,Male,Hypertension
+83,157,73,159,56,37.7,133,8.09,Male,Hypertension
+21,101,75,238,65,28.3,149,9.84,Male,Diabetes
+23,148,69,279,52,28.0,192,8.5,Male,Heart Disease
+68,126,88,275,94,31.4,112,4.55,Male,Hypertension
+79,150,69,160,52,31.2,158,9.18,Female,Heart Disease
+74,132,71,205,76,35.8,164,4.66,Female,Healthy
+83,159,89,232,99,28.7,71,8.16,Female,Hypertension
+25,128,100,286,92,39.9,189,8.92,Male,Hypertension
+43,145,60,248,89,19.8,91,4.47,Male,Healthy
+68,152,64,298,87,18.6,184,5.62,Male,Hypertension
+62,135,79,222,82,32.3,126,10.41,Female,Heart Disease
+61,177,67,264,77,24.9,141,8.31,Male,Diabetes
+22,100,102,156,50,23.7,76,5.72,Male,Heart Disease
+87,151,71,229,57,25.2,188,8.83,Female,Diabetes
+43,166,60,293,86,24.0,183,8.18,Male,Diabetes
+85,114,116,246,81,19.2,85,7.51,Female,Heart Disease
+36,160,113,153,97,39.4,152,10.83,Female,Heart Disease
+37,141,79,153,92,23.2,141,8.78,Female,Heart Disease
+29,93,87,252,86,34.3,193,6.63,Male,Heart Disease
+64,148,116,189,53,34.9,182,9.6,Male,Healthy
+18,161,102,166,79,38.5,81,10.19,Male,Hypertension
+31,109,96,250,55,19.2,195,4.88,Male,Diabetes
+81,152,106,252,95,37.2,122,5.4,Male,Heart Disease
+55,143,96,273,68,29.8,144,5.51,Male,Heart Disease
+54,163,71,201,81,32.1,96,8.84,Male,Heart Disease
+28,146,96,201,58,32.4,166,8.22,Female,Healthy
+20,179,108,273,61,36.1,74,8.33,Male,Heart Disease
+50,130,108,212,60,25.7,126,10.59,Female,Heart Disease
+23,92,115,265,95,34.3,147,9.43,Male,Heart Disease
+67,95,103,211,65,29.9,138,4.9,Male,Hypertension
+27,94,115,156,50,35.6,187,6.43,Male,Healthy
+22,94,87,241,94,39.8,189,7.05,Female,Heart Disease
+40,143,106,163,70,22.8,128,6.77,Female,Diabetes
+27,136,74,235,79,39.9,102,8.69,Female,Diabetes
+61,176,65,282,62,20.4,131,10.24,Female,Diabetes
+19,138,103,279,83,18.5,119,6.14,Male,Healthy
+30,98,118,211,53,19.4,181,7.86,Female,Healthy
+57,109,79,298,77,25.8,88,9.53,Male,Diabetes
+19,150,109,228,87,32.1,192,6.91,Male,Heart Disease
+82,124,73,298,80,20.0,116,5.18,Female,Healthy
+80,139,61,287,76,18.6,102,7.32,Female,Diabetes
+34,171,68,207,54,38.6,153,4.39,Female,Diabetes
+26,151,96,269,74,36.2,148,10.6,Female,Heart Disease
+32,106,79,282,52,35.9,83,4.52,Female,Hypertension
+41,177,85,214,82,37.5,197,7.07,Female,Healthy
+55,92,88,162,53,33.6,123,7.71,Female,Heart Disease
+52,121,60,231,74,20.7,98,10.9,Female,Diabetes
+66,102,114,288,69,27.1,93,5.16,Male,Diabetes
+86,178,94,298,83,34.0,151,4.8,Female,Heart Disease
+79,162,65,201,75,24.5,132,4.06,Female,Healthy
+77,157,96,266,54,33.3,174,5.09,Male,Hypertension
+67,103,112,175,84,19.0,126,5.45,Female,Hypertension
+26,100,118,183,77,25.1,131,8.41,Male,Diabetes
+51,145,64,201,78,30.3,86,5.54,Male,Healthy
+52,156,92,261,58,32.1,135,4.14,Female,Hypertension
+18,118,108,231,87,30.9,75,9.79,Male,Healthy
+57,98,110,191,99,33.5,127,6.56,Male,Healthy
+81,156,73,170,55,18.6,138,6.48,Male,Diabetes
+39,114,71,191,68,20.7,131,6.12,Male,Hypertension
+77,165,101,290,93,37.2,151,10.83,Female,Heart Disease
+81,131,79,262,60,33.2,140,5.19,Male,Diabetes
+89,98,112,254,51,20.9,79,10.29,Female,Hypertension
+28,168,109,166,96,36.6,167,9.44,Male,Hypertension
+31,129,83,269,93,23.7,158,4.54,Male,Hypertension
+77,114,118,286,93,28.8,104,10.91,Male,Hypertension
+47,94,102,278,58,21.6,71,5.9,Male,Hypertension
+52,100,93,279,70,33.8,193,4.69,Female,Healthy
+54,148,84,209,73,32.8,93,9.81,Female,Diabetes
+22,177,109,197,83,23.0,143,8.95,Male,Healthy
+43,168,88,178,71,37.1,91,8.32,Male,Heart Disease
+79,127,116,246,52,27.1,108,5.09,Female,Hypertension
+21,161,98,159,61,24.8,89,7.35,Male,Diabetes
+59,94,90,207,77,21.8,110,9.46,Male,Hypertension
+35,137,115,170,79,24.2,177,6.13,Male,Diabetes
+57,179,106,177,75,19.0,153,6.18,Female,Healthy
+89,107,102,183,97,31.0,180,4.02,Female,Diabetes
+56,159,109,157,70,36.6,135,5.22,Female,Heart Disease
+31,126,82,228,77,30.3,122,10.13,Male,Heart Disease
+49,149,103,294,75,23.2,103,7.09,Male,Diabetes
+68,137,97,236,82,19.2,136,10.89,Female,Diabetes
+55,166,79,237,70,23.1,96,6.77,Female,Diabetes
+40,117,82,218,84,27.4,79,9.01,Female,Diabetes
+80,158,104,236,83,34.8,142,5.97,Female,Heart Disease
+32,166,111,250,90,22.5,165,6.55,Male,Hypertension
+42,170,75,157,96,34.0,117,5.34,Female,Diabetes
+34,129,109,226,67,37.1,139,6.43,Male,Diabetes
+83,134,101,236,60,28.3,169,7.83,Female,Heart Disease
+70,151,119,192,72,36.2,128,10.94,Male,Heart Disease
+68,147,114,278,97,30.4,71,8.65,Female,Healthy
+56,156,67,258,71,32.2,134,5.39,Female,Diabetes
+68,145,109,166,66,29.8,152,4.31,Female,Healthy
+87,129,80,282,54,28.5,79,4.88,Female,Heart Disease
+23,129,60,297,93,23.5,122,7.94,Male,Heart Disease
+84,166,114,170,60,25.0,148,9.36,Female,Hypertension
+24,122,67,207,79,24.7,128,10.58,Male,Diabetes
+68,95,88,259,64,30.6,117,4.11,Male,Healthy
+89,177,91,288,76,21.1,192,7.66,Male,Heart Disease
+59,108,97,292,84,38.2,91,7.3,Male,Heart Disease
+81,169,64,284,82,34.0,169,8.59,Female,Healthy
+32,129,106,177,69,27.1,167,7.92,Male,Hypertension
+46,148,81,200,65,21.9,94,8.81,Male,Heart Disease
+50,148,106,154,83,37.5,97,8.61,Male,Diabetes
+44,137,93,154,51,36.2,182,4.82,Female,Heart Disease
+53,130,60,243,84,34.0,114,9.6,Female,Diabetes
+46,102,114,245,89,24.3,137,4.86,Female,Healthy
+55,134,114,157,77,27.2,76,8.89,Female,Diabetes
+74,178,85,213,96,20.7,118,6.91,Male,Healthy
+44,142,102,287,88,22.6,152,7.6,Male,Diabetes
+72,131,69,187,55,35.3,198,10.32,Female,Healthy
+50,152,89,260,58,33.9,142,10.23,Male,Diabetes
+85,116,109,261,69,31.3,115,9.72,Male,Hypertension
+83,127,77,230,50,37.8,175,7.57,Male,Diabetes
+27,149,76,285,57,31.0,101,9.15,Female,Diabetes
+22,96,85,253,72,28.5,75,7.59,Female,Hypertension
+55,94,67,222,52,25.8,143,10.09,Male,Heart Disease
+30,134,106,198,53,38.7,183,6.82,Female,Heart Disease
+48,147,99,185,74,20.3,96,10.79,Female,Diabetes
+64,120,108,275,96,38.5,123,10.53,Female,Hypertension
+69,112,71,217,87,36.3,154,9.19,Female,Diabetes
+73,131,86,227,64,21.3,196,5.96,Female,Healthy
+32,99,67,254,70,30.6,180,4.92,Male,Healthy
+46,121,84,271,84,37.1,84,9.98,Female,Diabetes
+25,142,105,268,95,30.8,162,5.16,Male,Heart Disease
+22,119,63,263,63,38.0,192,9.98,Male,Heart Disease
+46,128,92,159,85,38.8,142,7.44,Female,Diabetes
+64,120,60,298,61,27.6,161,6.85,Male,Diabetes
+85,171,78,289,66,26.6,86,10.32,Male,Healthy
+62,91,90,240,88,38.6,112,8.23,Male,Heart Disease
+19,167,75,151,58,33.0,190,8.04,Female,Diabetes
+44,166,73,267,84,21.0,110,7.91,Female,Healthy
+53,101,112,162,62,19.4,108,6.6,Male,Heart Disease
+53,128,107,244,64,30.6,182,9.5,Female,Hypertension
+43,155,64,293,67,38.5,180,5.77,Female,Healthy
+60,102,100,181,82,36.7,116,10.57,Female,Heart Disease
+44,135,85,181,55,33.0,132,10.26,Female,Heart Disease
+86,116,87,273,76,21.5,179,6.36,Male,Healthy
+37,106,61,160,72,24.0,138,9.11,Male,Hypertension
+28,149,109,159,76,37.3,112,8.01,Female,Healthy
+55,153,65,164,83,22.4,103,6.36,Female,Heart Disease
+23,177,68,166,95,24.5,109,10.92,Male,Diabetes
+89,124,92,295,87,21.3,130,4.18,Male,Diabetes
+40,159,100,208,63,33.0,131,5.77,Female,Healthy
+64,172,84,227,85,38.8,127,7.64,Male,Heart Disease
+63,119,107,273,57,24.3,144,7.65,Female,Diabetes
+29,160,72,263,84,28.7,85,8.12,Female,Heart Disease
+30,163,68,171,68,32.1,151,9.26,Male,Healthy
+79,152,112,181,79,40.0,163,8.36,Male,Diabetes
+77,117,72,262,63,20.8,117,8.2,Female,Heart Disease
+60,149,90,269,69,29.2,151,4.37,Female,Diabetes
+85,168,100,298,98,26.8,107,6.64,Male,Healthy
+22,126,70,271,74,37.1,196,5.62,Female,Heart Disease
+54,111,63,181,89,28.7,88,5.86,Male,Diabetes
+89,157,93,268,73,20.9,132,7.88,Female,Healthy
+48,109,97,188,63,32.1,146,5.4,Male,Diabetes
+26,157,105,161,75,35.1,171,6.06,Male,Diabetes
+68,153,63,167,87,18.6,134,5.66,Male,Hypertension
+46,106,97,298,72,37.0,189,10.64,Female,Hypertension
+57,101,78,290,71,22.5,160,10.61,Female,Healthy
+58,111,65,298,97,30.4,77,8.27,Male,Hypertension
+28,106,93,275,68,27.4,142,10.47,Female,Healthy
+40,99,77,285,95,34.0,176,9.5,Male,Hypertension
+18,154,72,195,52,26.5,158,8.13,Male,Diabetes
+63,111,100,253,91,37.2,108,4.05,Female,Healthy
+38,179,82,284,68,34.2,182,9.41,Female,Healthy
+53,171,78,235,58,32.4,97,8.92,Male,Diabetes
+71,139,104,299,77,35.6,166,8.31,Female,Healthy
+74,103,70,238,69,34.7,106,9.32,Female,Healthy
+18,153,60,171,94,19.3,151,7.59,Male,Hypertension
+80,136,83,241,56,27.0,125,8.93,Male,Healthy
+71,118,113,178,63,38.5,154,10.55,Female,Heart Disease
+72,165,66,162,58,21.2,71,6.63,Male,Diabetes
+57,125,84,151,68,34.3,127,8.96,Male,Hypertension
+32,141,80,178,96,39.5,176,7.33,Female,Hypertension
+38,165,74,176,63,19.6,192,8.72,Male,Heart Disease
+64,96,60,199,87,33.2,183,9.34,Male,Diabetes
+70,118,71,244,85,28.6,176,4.32,Female,Diabetes
+26,100,117,237,89,31.0,106,8.53,Female,Hypertension
+69,122,66,193,66,20.3,148,5.59,Male,Healthy
+74,95,74,171,79,19.4,161,8.69,Male,Hypertension
+43,168,80,246,58,32.8,87,7.28,Female,Diabetes
+58,121,78,152,82,36.2,167,9.41,Female,Heart Disease
+52,140,119,267,74,35.3,132,4.86,Female,Hypertension
+80,164,88,168,63,30.2,73,8.38,Female,Diabetes
+42,147,84,172,60,20.6,130,5.95,Male,Hypertension
+55,176,92,179,84,33.3,176,9.97,Female,Healthy
+19,115,108,188,90,23.7,123,10.5,Female,Hypertension
+24,135,91,257,63,38.1,157,10.97,Male,Hypertension
+51,118,108,260,79,36.5,137,9.57,Female,Diabetes
+34,93,94,174,90,33.8,198,9.28,Male,Diabetes
+60,170,103,277,53,38.9,124,5.51,Female,Diabetes
+76,102,97,260,53,19.2,72,6.35,Female,Hypertension
+68,128,85,285,77,34.3,190,7.26,Female,Healthy
+71,104,70,255,57,25.6,198,9.41,Male,Heart Disease
+41,118,94,293,51,38.0,171,10.4,Male,Heart Disease
+42,118,67,221,90,24.2,107,5.32,Female,Diabetes
+88,164,105,278,95,34.1,154,10.46,Male,Diabetes
+69,121,73,257,71,37.4,161,8.87,Male,Hypertension
+87,91,69,154,90,19.4,90,8.28,Male,Heart Disease
+50,136,61,152,65,27.0,178,5.4,Male,Diabetes
+66,167,105,281,78,34.9,116,4.39,Male,Healthy
+46,173,68,253,98,28.3,153,7.98,Male,Healthy
+80,111,62,213,97,24.2,152,8.56,Female,Diabetes
+39,164,80,255,79,23.2,104,5.48,Female,Diabetes
+43,116,85,247,61,21.3,138,7.9,Male,Heart Disease
+45,156,67,159,84,36.9,198,10.0,Female,Heart Disease
+66,170,107,298,60,30.9,96,9.85,Female,Hypertension
+88,145,61,277,95,20.1,125,10.49,Female,Heart Disease
+66,110,65,195,99,26.7,92,6.56,Female,Healthy
+37,136,87,215,70,26.4,90,6.23,Male,Healthy
+80,169,112,261,70,22.4,130,9.25,Female,Diabetes
+78,148,88,162,54,27.9,132,7.02,Female,Heart Disease
+66,173,85,286,97,25.6,191,4.61,Male,Hypertension
+88,95,84,235,69,25.8,121,5.98,Male,Healthy
+18,108,71,239,86,34.4,157,6.93,Female,Healthy
+30,146,64,207,52,23.3,124,6.05,Female,Hypertension
+68,158,93,203,93,32.3,115,6.33,Female,Hypertension
+73,92,107,161,82,30.8,101,6.06,Female,Healthy
+79,90,96,163,58,30.7,124,4.29,Female,Healthy
+49,147,74,270,58,32.8,165,8.46,Female,Hypertension
+47,127,103,270,53,30.3,105,8.18,Male,Healthy
+46,104,95,169,84,37.4,179,8.57,Female,Diabetes
+66,123,74,224,66,33.0,175,5.35,Female,Diabetes
+62,150,102,293,83,30.3,127,6.07,Male,Hypertension
+47,124,107,219,73,36.3,108,8.34,Male,Heart Disease
+33,153,82,205,81,31.5,149,8.2,Male,Hypertension
+57,114,65,250,50,24.8,166,7.54,Male,Hypertension
+36,113,105,281,57,23.0,182,6.45,Female,Heart Disease
+35,101,109,260,94,21.8,130,10.39,Female,Heart Disease
+18,107,103,274,72,37.8,75,6.38,Female,Heart Disease
+64,104,118,281,96,33.8,178,7.19,Female,Diabetes
+83,169,102,169,89,38.7,104,8.75,Female,Healthy
+55,116,104,287,61,31.5,108,7.8,Female,Diabetes
+68,161,80,173,61,28.7,187,6.43,Male,Healthy
+80,149,82,186,95,19.8,74,7.05,Female,Diabetes
+21,135,102,203,96,32.9,156,9.56,Male,Healthy
+18,178,114,252,64,31.0,145,5.95,Male,Diabetes
+25,106,75,298,90,39.8,126,5.0,Female,Heart Disease
+46,142,106,187,68,23.6,196,6.19,Male,Hypertension
+72,97,112,153,75,29.9,98,9.95,Female,Diabetes
+20,168,119,206,78,32.5,156,4.62,Male,Healthy
+49,116,74,169,71,32.4,115,10.94,Female,Heart Disease
+27,135,84,166,89,30.6,185,7.79,Male,Diabetes
+51,139,95,268,70,35.2,181,10.89,Female,Diabetes
+72,160,70,220,87,22.9,114,10.57,Female,Heart Disease
+49,92,110,153,69,34.1,173,7.17,Female,Diabetes
+67,153,74,163,78,31.8,154,5.39,Female,Hypertension
+24,133,63,152,53,37.8,177,5.15,Female,Diabetes
+25,142,80,229,56,36.7,87,5.68,Male,Hypertension
+82,113,72,204,77,25.3,163,8.97,Male,Hypertension
+74,149,81,281,77,24.4,102,5.91,Male,Heart Disease
+84,92,78,269,53,39.6,195,6.39,Female,Diabetes
+76,109,93,173,71,29.8,191,7.14,Male,Heart Disease
+89,135,73,231,61,38.0,184,10.39,Female,Diabetes
+71,104,63,296,94,22.0,97,5.33,Female,Diabetes
+84,114,107,209,52,32.3,80,4.04,Male,Healthy
+68,167,112,296,71,35.9,116,4.42,Male,Diabetes
+25,160,111,198,93,38.9,196,10.33,Female,Heart Disease
+51,106,105,212,51,25.8,187,8.53,Male,Hypertension
+52,173,86,259,73,34.1,195,5.91,Female,Diabetes
+49,98,88,299,83,30.1,141,5.24,Female,Healthy
+63,127,106,258,76,19.8,176,6.06,Female,Heart Disease
+33,137,87,225,90,33.3,102,4.8,Female,Diabetes
+85,149,94,179,50,33.3,88,10.59,Female,Heart Disease
+54,152,67,207,57,38.5,143,9.49,Male,Healthy
+71,175,75,266,72,29.2,167,7.24,Male,Healthy
+31,91,101,249,87,23.5,198,10.05,Female,Heart Disease
+72,177,95,168,55,19.5,162,5.75,Female,Diabetes
+65,161,89,243,71,27.4,117,9.02,Male,Hypertension
+24,100,77,262,74,25.0,133,9.99,Male,Healthy
+24,153,61,295,67,34.9,130,6.5,Female,Diabetes
+50,166,108,212,66,26.1,108,9.3,Male,Diabetes
+40,170,72,265,61,38.9,197,6.07,Female,Hypertension
+36,161,63,262,55,39.2,157,6.09,Male,Healthy
+36,110,85,196,75,31.8,95,4.75,Female,Healthy
+53,107,84,206,76,38.5,86,7.08,Male,Diabetes
+46,153,89,267,57,34.9,140,9.11,Female,Diabetes
+77,171,70,194,68,30.3,82,10.58,Male,Hypertension
+19,127,66,294,91,22.4,138,8.23,Male,Hypertension
+18,121,90,153,50,28.4,95,10.04,Female,Healthy
+64,100,103,297,78,30.6,118,9.76,Male,Heart Disease
+86,134,69,196,94,37.1,76,5.21,Female,Healthy
+37,178,98,292,98,28.8,127,7.4,Male,Diabetes
+28,122,72,196,84,37.8,118,4.82,Female,Healthy
+19,130,90,227,89,33.0,172,8.78,Male,Heart Disease
+84,97,66,273,63,21.4,122,10.65,Female,Hypertension
+29,100,115,224,84,39.9,131,4.96,Male,Heart Disease
+37,175,108,252,97,29.8,86,9.14,Female,Heart Disease
+22,140,101,286,94,26.9,94,8.43,Male,Heart Disease
+54,177,101,239,69,32.7,98,8.09,Female,Hypertension
+55,130,115,293,98,20.8,186,6.73,Female,Heart Disease
+26,106,95,218,62,32.2,95,6.49,Female,Heart Disease
+70,165,79,210,87,29.2,193,4.32,Male,Heart Disease
+61,135,63,287,98,27.2,94,5.53,Female,Diabetes
+41,121,113,199,95,39.0,123,4.11,Male,Heart Disease
+47,168,66,152,98,29.7,142,8.07,Female,Hypertension
+76,169,113,256,57,23.2,189,4.74,Male,Heart Disease
+31,143,60,262,92,28.4,125,10.11,Female,Heart Disease
+26,175,103,243,69,38.3,134,7.66,Male,Hypertension
+57,109,115,267,82,22.3,162,8.9,Male,Heart Disease
+83,122,104,230,75,23.1,155,6.88,Female,Hypertension
+42,163,101,258,88,18.8,149,7.92,Male,Heart Disease
+39,129,106,200,70,18.8,177,10.6,Male,Hypertension
+21,121,118,296,98,36.3,187,4.58,Female,Heart Disease
+43,91,72,184,91,34.2,152,5.78,Male,Heart Disease
+75,122,114,195,92,26.1,84,9.46,Male,Diabetes
+46,166,81,218,90,33.5,99,4.69,Male,Diabetes
+54,119,113,242,58,27.0,126,4.53,Female,Heart Disease
+87,122,80,213,73,39.0,197,6.53,Male,Heart Disease
+35,166,81,198,86,39.3,117,4.65,Female,Healthy

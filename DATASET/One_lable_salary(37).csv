@@ -1,0 +1,301 @@
+City,Education,Industry,YearsExperience,Salary
+Delhi,High School,Healthcare,6,43493.03760208799
+Delhi,High School,Healthcare,19,81589.93329554309
+Chennai,PhD,Finance,14,64314.018051708474
+Mumbai,Masters,IT,10,54039.967298307354
+Mumbai,Masters,Finance,7,46976.401972862455
+Mumbai,Bachelors,IT,20,85161.3870995048
+Delhi,Masters,Education,6,45543.18171868699
+Bangalore,Bachelors,IT,18,79608.63605923834
+Delhi,Masters,IT,10,57169.65662429221
+Bangalore,PhD,Education,10,54922.86390649714
+Kolkata,Bachelors,Healthcare,20,85196.87686094877
+Delhi,Masters,Education,3,34657.77298497525
+Delhi,PhD,IT,7,44302.52955585294
+Delhi,Masters,Education,2,32032.637616673135
+Mumbai,High School,IT,20,84149.51601616817
+Mumbai,High School,Healthcare,1,26909.945122801255
+Bangalore,PhD,Healthcare,11,55378.4277169214
+Bangalore,High School,IT,5,41913.35091288218
+Delhi,High School,Healthcare,1,29041.47877197706
+Bangalore,Bachelors,Education,20,85978.67598077939
+Mumbai,Masters,Healthcare,0,22762.840545807776
+Bangalore,Bachelors,Finance,11,56398.55097630028
+Kolkata,Masters,Healthcare,11,56877.01004936676
+Mumbai,High School,Finance,16,71115.78899759027
+Kolkata,Bachelors,Education,9,51156.99840055025
+Bangalore,Masters,Healthcare,15,67514.26767738804
+Chennai,Masters,Healthcare,14,66207.39471688203
+Delhi,Bachelors,Healthcare,14,66667.29658170592
+Mumbai,PhD,Education,18,77362.8635659774
+Kolkata,Masters,Education,11,57507.48979426322
+Chennai,High School,Finance,19,82727.20148541091
+Chennai,Masters,IT,2,29208.31856244734
+Mumbai,High School,Education,4,35700.277420251616
+Mumbai,Bachelors,Healthcare,18,79525.56057706497
+Chennai,Masters,Finance,6,42342.24807225449
+Delhi,High School,Healthcare,20,85732.53831985085
+Delhi,High School,Healthcare,8,48990.66900947181
+Kolkata,Bachelors,Education,6,43399.15422712985
+Delhi,Masters,IT,17,74500.25528805285
+Chennai,Masters,Healthcare,3,34772.26593361999
+Chennai,Bachelors,Education,13,63805.93839604831
+Bangalore,Masters,Finance,17,76934.30801669229
+Chennai,Bachelors,Healthcare,8,50914.76095216154
+Delhi,Masters,Finance,20,84805.4182309417
+Kolkata,PhD,Education,1,26640.842660790007
+Bangalore,Masters,Education,19,82260.94957057136
+Delhi,High School,Education,14,65295.44760113149
+Kolkata,High School,Education,6,44780.942539738586
+Delhi,PhD,Education,11,61120.97084939822
+Bangalore,Masters,IT,7,44875.263795093124
+Chennai,High School,Finance,14,68848.11629129377
+Bangalore,High School,IT,2,31761.254049840518
+Chennai,Masters,Finance,13,63758.280550939606
+Bangalore,Bachelors,Healthcare,16,72050.18401858391
+Mumbai,Masters,Healthcare,3,36796.491966801004
+Delhi,Bachelors,Finance,17,77696.01020156889
+Delhi,PhD,Healthcare,7,43482.58091150311
+Mumbai,PhD,Healthcare,3,33240.73150500883
+Chennai,High School,Healthcare,1,27435.836630308982
+Delhi,High School,IT,5,39183.48956086314
+Mumbai,High School,IT,9,52797.116318202934
+Delhi,Bachelors,Education,3,31705.310069725914
+Kolkata,High School,Finance,17,77320.15024597138
+Chennai,Masters,Healthcare,11,57416.512149103655
+Kolkata,Bachelors,Finance,1,25638.87023565515
+Chennai,PhD,Education,9,54336.43134526251
+Mumbai,Bachelors,Education,3,35335.89575569637
+Chennai,High School,Healthcare,13,65894.4112673117
+Chennai,Masters,Education,15,72299.45494082478
+Mumbai,Masters,Healthcare,14,68372.96406315023
+Chennai,High School,Education,7,47331.35559869275
+Delhi,Masters,Education,13,66256.43554331874
+Bangalore,Bachelors,Healthcare,7,47323.556702096226
+Mumbai,Bachelors,Education,20,83704.568276658
+Bangalore,High School,Education,15,71207.72783018115
+Mumbai,Masters,Education,12,59426.425417997394
+Mumbai,PhD,Finance,17,74016.84473137336
+Kolkata,Bachelors,IT,14,65803.00864020936
+Kolkata,Bachelors,Finance,20,86226.77115396006
+Chennai,Bachelors,Education,12,62283.85971757823
+Bangalore,Bachelors,IT,8,49868.10445207371
+Mumbai,PhD,Finance,14,64675.387126362235
+Chennai,High School,Finance,12,59388.655719262475
+Delhi,Bachelors,Finance,0,25611.798917520307
+Mumbai,Masters,Healthcare,6,40420.76641418058
+Delhi,PhD,Education,8,50847.107097664986
+Chennai,Bachelors,Education,0,22760.149749979035
+Kolkata,Masters,IT,11,57243.22290495943
+Chennai,Bachelors,Finance,7,44230.77667081833
+Delhi,High School,Education,10,56638.511249277304
+Mumbai,PhD,Finance,18,77891.00240456966
+Bangalore,High School,Education,16,72662.01237367511
+Chennai,PhD,Finance,7,44085.086685760485
+Mumbai,Bachelors,Education,2,32375.261492946425
+Kolkata,Bachelors,IT,2,32807.01086419188
+Kolkata,PhD,Finance,0,24141.488195936792
+Kolkata,Masters,Education,4,37010.05066868311
+Mumbai,Masters,IT,9,50726.153163989235
+Chennai,Bachelors,IT,6,41389.81321776998
+Mumbai,Bachelors,Education,8,50987.434976983895
+Mumbai,High School,Finance,6,44776.7512643888
+Bangalore,Bachelors,Healthcare,8,51243.4435656007
+Bangalore,PhD,IT,7,44688.905274703946
+Chennai,Masters,IT,11,60074.222972220225
+Bangalore,Masters,Education,1,29703.70221618526
+Kolkata,High School,Healthcare,0,24873.32555541078
+Bangalore,Masters,Healthcare,15,67621.67642107783
+Kolkata,Masters,Healthcare,4,38423.24836114348
+Chennai,PhD,Education,2,29243.93405247405
+Mumbai,Masters,Finance,11,58987.41285842369
+Mumbai,High School,IT,7,46697.624921200935
+Bangalore,High School,Education,2,30589.6459808132
+Kolkata,Masters,Healthcare,0,26936.169097614966
+Delhi,Bachelors,IT,2,31275.10056611687
+Delhi,Masters,IT,4,34705.69610318407
+Delhi,High School,Healthcare,14,66578.29824131484
+Mumbai,High School,Healthcare,13,63057.834313409694
+Mumbai,PhD,IT,2,28590.96791528635
+Kolkata,Masters,IT,0,24264.079688249818
+Bangalore,Masters,Finance,4,38394.46497980586
+Delhi,PhD,Finance,13,62477.83301279831
+Kolkata,High School,Education,6,42524.1019970899
+Kolkata,PhD,IT,8,49886.71531392536
+Bangalore,Bachelors,Finance,14,66383.07347685144
+Kolkata,Masters,IT,14,67979.0847101018
+Bangalore,High School,Healthcare,9,51885.907471925755
+Chennai,PhD,Finance,12,61765.099949084986
+Bangalore,High School,Healthcare,18,80772.67654423139
+Delhi,Bachelors,Healthcare,6,42174.430152723406
+Delhi,Masters,Healthcare,16,73616.46029680711
+Bangalore,PhD,Education,19,82944.97523609243
+Chennai,High School,Healthcare,3,34541.61568951176
+Chennai,Masters,Education,4,36799.89820340701
+Delhi,Masters,IT,6,44126.032126637285
+Chennai,High School,IT,12,61596.957785138366
+Kolkata,Masters,Finance,14,64853.3852456715
+Mumbai,Masters,Finance,10,52453.94214167494
+Kolkata,PhD,Education,3,31038.15762063811
+Delhi,Masters,IT,12,63777.19329862816
+Chennai,PhD,Finance,6,40543.1710766407
+Bangalore,Masters,Finance,18,77514.88018161544
+Mumbai,Bachelors,Finance,1,28180.223708236124
+Bangalore,Bachelors,IT,9,51465.499989520686
+Delhi,PhD,Finance,12,60174.473699116046
+Chennai,PhD,IT,20,87876.0369178362
+Bangalore,Bachelors,Healthcare,5,40943.12315986064
+Bangalore,Masters,Healthcare,11,58225.07797440223
+Mumbai,PhD,Healthcare,11,58558.97821151109
+Mumbai,High School,Education,19,82906.39660222897
+Chennai,Masters,IT,10,57158.317189837646
+Mumbai,Masters,Finance,6,43867.5626259634
+Bangalore,Bachelors,Education,0,26601.726799822343
+Bangalore,PhD,Education,0,25740.1741699274
+Delhi,Masters,Healthcare,19,84458.69716799646
+Bangalore,PhD,IT,12,59590.336896549044
+Chennai,PhD,Finance,8,50217.79624798441
+Kolkata,PhD,Education,2,29190.525982064395
+Delhi,Bachelors,Finance,6,42734.5401269396
+Delhi,PhD,Healthcare,5,38311.12088467837
+Chennai,Bachelors,IT,7,45340.89298603611
+Chennai,High School,Finance,8,50923.710873296266
+Mumbai,Masters,Finance,4,36257.07576758421
+Delhi,Masters,Education,0,27249.498789578065
+Mumbai,High School,Finance,18,79579.30723901611
+Bangalore,Bachelors,IT,9,49890.64042799972
+Delhi,Masters,IT,11,56744.936068824885
+Delhi,Bachelors,Finance,14,69247.39300449466
+Kolkata,Bachelors,Education,8,51155.25178365826
+Delhi,Bachelors,Education,19,83556.11719327154
+Bangalore,High School,Healthcare,16,71366.69369527008
+Mumbai,High School,IT,16,71848.42326169326
+Mumbai,Bachelors,Healthcare,19,82669.56600894258
+Kolkata,PhD,Education,11,61014.99719721591
+Bangalore,High School,Healthcare,6,41202.314042651495
+Mumbai,PhD,Education,1,26934.458601168102
+Chennai,PhD,Healthcare,2,34128.4537852251
+Bangalore,Bachelors,Healthcare,16,74377.49487988632
+Bangalore,PhD,IT,4,35113.315680914406
+Kolkata,PhD,IT,16,75110.83415818965
+Mumbai,PhD,Healthcare,16,73346.92984615122
+Bangalore,Bachelors,Education,16,73414.6388011915
+Mumbai,Bachelors,Education,1,29502.654309381083
+Chennai,High School,IT,1,26931.994716184126
+Kolkata,High School,IT,4,38097.47431121928
+Chennai,PhD,Finance,0,26847.3200273767
+Kolkata,Bachelors,IT,0,25460.711848837214
+Bangalore,Bachelors,Education,18,77930.91926068328
+Kolkata,PhD,IT,1,31097.78004382553
+Delhi,High School,Finance,20,86950.10921746469
+Mumbai,Bachelors,Healthcare,11,58193.03419294312
+Mumbai,High School,Healthcare,5,41194.05529423049
+Delhi,PhD,Education,3,31503.528626492385
+Chennai,Bachelors,Finance,10,56758.94986483265
+Delhi,PhD,Healthcare,16,70643.54066919614
+Bangalore,Masters,Healthcare,5,39206.156763612584
+Bangalore,PhD,IT,4,38845.961820503784
+Mumbai,PhD,Healthcare,19,82568.65870112283
+Bangalore,PhD,Education,1,24900.998934471427
+Mumbai,Bachelors,Healthcare,5,38873.764039959875
+Delhi,PhD,Education,10,52611.25467976179
+Delhi,PhD,Education,15,69494.1475642245
+Delhi,Masters,IT,15,67836.43611800465
+Mumbai,Bachelors,Finance,0,22905.078583106253
+Delhi,Masters,Education,8,48710.34119991135
+Delhi,PhD,Healthcare,5,39117.049432432075
+Chennai,Bachelors,Healthcare,15,70449.59688576653
+Delhi,Masters,Education,2,30731.23035148901
+Bangalore,PhD,Healthcare,19,80217.91844107702
+Mumbai,High School,IT,3,34460.427345137745
+Chennai,Masters,Healthcare,18,80272.56078411691
+Kolkata,Bachelors,IT,2,32962.00810195139
+Mumbai,Masters,Education,18,79889.85721260404
+Bangalore,Masters,Education,19,80889.1298425573
+Mumbai,Masters,Education,6,43802.70783155074
+Bangalore,High School,IT,19,80124.60255804137
+Bangalore,Bachelors,Healthcare,8,51393.21642442877
+Kolkata,Bachelors,IT,0,26667.033007202765
+Mumbai,Bachelors,Healthcare,7,45646.11337254396
+Kolkata,PhD,Healthcare,6,40490.955709947055
+Kolkata,Bachelors,IT,17,77019.52631150607
+Mumbai,Bachelors,Finance,7,45729.099180942445
+Delhi,High School,Education,0,26597.06706049414
+Delhi,PhD,Healthcare,10,53861.51564637649
+Kolkata,PhD,Healthcare,17,73749.33648422634
+Chennai,Masters,IT,9,49906.672894508316
+Kolkata,PhD,Finance,2,31795.63196339973
+Kolkata,PhD,Education,6,43546.33400670798
+Kolkata,High School,Finance,15,70848.61118570523
+Delhi,Bachelors,Education,15,69428.3411143289
+Delhi,PhD,Healthcare,19,82623.30787327561
+Delhi,PhD,Healthcare,16,71687.3455740793
+Kolkata,High School,IT,1,28022.20429794272
+Chennai,PhD,IT,0,24553.27568527119
+Delhi,PhD,Finance,15,71875.81499585054
+Mumbai,High School,Finance,11,56457.65628972032
+Mumbai,Masters,Education,4,37866.39256212959
+Mumbai,Masters,IT,4,39115.1547931596
+Bangalore,PhD,Healthcare,8,49328.54546169471
+Kolkata,PhD,IT,8,51339.1508204948
+Mumbai,Bachelors,Finance,2,30664.335719998653
+Kolkata,PhD,IT,18,81483.78254072636
+Mumbai,Bachelors,Healthcare,15,69586.30514164918
+Chennai,Masters,IT,15,71833.54765876825
+Kolkata,PhD,Finance,2,30351.8731792445
+Mumbai,PhD,Healthcare,19,83469.52004886082
+Delhi,High School,Education,0,24250.193399988533
+Kolkata,PhD,Education,19,80800.15085530795
+Bangalore,Masters,Healthcare,10,53627.382860303565
+Delhi,PhD,Healthcare,16,75902.9921127624
+Delhi,Bachelors,Healthcare,7,46896.74097024149
+Bangalore,PhD,Finance,3,33835.31446777026
+Delhi,Bachelors,Healthcare,5,38037.87898415703
+Delhi,High School,Finance,7,44341.457429326474
+Mumbai,PhD,Healthcare,19,81564.00971873113
+Mumbai,High School,Finance,2,31978.355876767517
+Kolkata,High School,Finance,15,69490.58743750361
+Kolkata,PhD,IT,2,28632.738902872596
+Kolkata,Bachelors,Education,17,73887.90869426007
+Mumbai,PhD,Healthcare,13,66922.3975926202
+Kolkata,Bachelors,Education,17,76296.0802315347
+Delhi,High School,Education,1,28680.053058929185
+Mumbai,Masters,IT,2,30500.528344364087
+Kolkata,PhD,Education,15,72391.08718229964
+Delhi,Masters,Education,8,51470.32726557249
+Kolkata,Bachelors,Healthcare,3,33630.09690766664
+Chennai,PhD,Finance,0,27661.39949422172
+Kolkata,Masters,Healthcare,3,31488.098047845306
+Chennai,Masters,Healthcare,0,23810.72468282503
+Kolkata,PhD,Education,13,62799.67295416098
+Bangalore,Masters,Education,20,82780.16316917795
+Kolkata,PhD,Healthcare,15,70047.44030059522
+Mumbai,Masters,Healthcare,19,80066.48898480626
+Mumbai,High School,Education,7,45928.757584817555
+Chennai,PhD,Finance,6,45222.5590280637
+Mumbai,High School,Finance,2,30400.455976884765
+Delhi,High School,Healthcare,16,73225.0619044173
+Bangalore,Masters,Finance,0,22843.357755769724
+Bangalore,Bachelors,Healthcare,15,68937.127419976
+Delhi,High School,IT,11,56904.63637731139
+Chennai,High School,Education,18,78716.44964352713
+Delhi,High School,Healthcare,13,64243.86280699213
+Delhi,Bachelors,Healthcare,5,41283.67615288831
+Bangalore,Bachelors,Healthcare,5,40584.27426625156
+Kolkata,High School,Finance,12,61699.90684517322
+Bangalore,Bachelors,Healthcare,18,79272.35082481815
+Bangalore,Bachelors,IT,7,46523.17559465471
+Mumbai,Bachelors,Finance,1,28757.589894394663
+Delhi,PhD,Education,20,86238.21560227622
+Bangalore,High School,IT,0,23115.812724245072
+Delhi,Bachelors,Healthcare,14,65911.69786582107
+Mumbai,PhD,IT,0,26679.420915078386
+Delhi,Masters,Healthcare,4,39360.61011778576
+Bangalore,Masters,IT,15,69165.73115612709
+Delhi,Bachelors,Finance,18,77470.74667942034
+Mumbai,High School,Healthcare,3,32573.005961368115
+Kolkata,Bachelors,Finance,2,31755.254247216617
+Delhi,Masters,IT,16,70589.67835899068
+Bangalore,High School,Healthcare,16,73963.87623647368
+Mumbai,High School,Education,11,59887.24127503208
+Bangalore,Masters,Education,13,61713.84302510489
